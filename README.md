@@ -1,4 +1,4 @@
-**This repository contains source code of the ESORICS 2022 paper: 
+**This repository contains source code of the ESORICS 2022 paper:**
 
 # Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning
 
