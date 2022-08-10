@@ -179,3 +179,5 @@ optional arguments:
                         list input option.
 ```
 
+#### References:
+* We adopt lot of implementation from the paper: [Attack-Adaptive Aggrevation](https://github.com/cpwan/Attack-Adaptive-Aggregation-in-Federated-Learning)
