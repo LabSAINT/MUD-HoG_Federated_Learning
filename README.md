@@ -25,7 +25,7 @@ MUD-HoG can work with and successfully detect a wide range of malicious and unre
 ```
 @inproceedings{mudhog-esorics2022,
   title={Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning},
-  author={Ashish, Gupta1 and Tie, Luo and Mao V., Ngo, and Sajal K., Das},
+  author={Ashish Gupta and Tie Luo and Mao V. Ngo and Sajal K. Das},
   booktitle={European Symposium on Research in Computer Security (ESORICS)},
   year={2022},
 }
