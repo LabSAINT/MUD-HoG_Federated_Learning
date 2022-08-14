@@ -180,4 +180,4 @@ optional arguments:
 ```
 
 #### References:
-* We adopt lot of implementation from the paper: [Attack-Adaptive Aggrevation](https://github.com/cpwan/Attack-Adaptive-Aggregation-in-Federated-Learning)
+* Baseline methods' implementations mostly inherited from: [Attack-Adaptive Aggrevation](https://github.com/cpwan/Attack-Adaptive-Aggregation-in-Federated-Learning)
