@@ -1,4 +1,9 @@
-** Source code and evaluation script of our [ESORICS 2022 paper](https://arxiv.org/abs/2208.10273) (DOI: [10.1007/978-3-031-17143-7_22](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_22)): **
+** Source code and evaluation script of our ESORICS 2022 paper **
+
+[Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_22)<br>
+[Direct PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-17143-7_22.pdf?pdf=inline%20link)<br>
+[arXiv](https://arxiv.org/abs/2208.10273)<br>
+DOI: 10.1007/978-3-031-17143-7_22
 
 ## Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning
 
@@ -13,6 +18,7 @@ Federated learning offers a framework of training a machine learning model in a 
   author={Ashish Gupta and Tie Luo and Mao V. Ngo and Sajal K. Das},
   booktitle={European Symposium on Research in Computer Security (ESORICS)},
   year={2022},
+  pages="445--465",
 }
 ```
 
